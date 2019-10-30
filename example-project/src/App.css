@@ -1,0 +1,21 @@
+.logo{
+    width:30px;
+}
+.App{
+    /* background:rgb(170, 170, 170);
+    height: 2000px; */
+}
+.navbar{
+    background:white;
+}
+
+/* app */
+.oneManga{
+    display:flex;
+    justify-content: center;
+    width: 170px;
+}
+.avatarImg{
+    width: 170px;
+    height: 230px;
+}

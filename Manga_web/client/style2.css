@@ -1,0 +1,47 @@
+#imgg{
+    width:900px;
+    margin-left: 18%;
+    margin-bottom: 1%;
+    
+}
+.avatar{
+    width: 130px;
+    border-radius: 10px;
+}
+.avatarFirst{
+    margin-top:20px;
+    margin-left: 20px;
+    width: 130px;
+    border-radius: 10px;
+}
+.avatarDiv{
+    width: 134px;
+    border-radius: 12px;
+    border-style: double;
+    border-width: 2px;
+    border-color:rgb(82, 82, 82);
+}
+.load_content{
+    margin-left: 10px;
+}
+.chaps-2{
+    margin-left: 10%;
+    margin-right:10%;
+    background-color:rgb(192, 192, 192);
+}
+
+/* index.html */
+.chap2{
+
+    margin-left: 10%;
+    margin-right:10%;
+    background-color: rgb(255, 255, 255);
+}
+
+.avatar-click{
+    width: 230px;
+    border-radius: 1px;
+}
+.gray{
+    background-color: rgb(196, 196, 196);
+}
